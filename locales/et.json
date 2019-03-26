@@ -1,9 +1,9 @@
 {
-  "key1": "Test key 1",
+  "key1": "Testvõti 1",
   "object": {
-    "oKey1": "Test object key 1",
+    "oKey1": "Test objekti võti 1",
     "subObject1": {
-      "sObjectKey1": "Test sub object key 1"
+      "sObjectKey1": "Test objekti alamvõti 1"
     }
   }
 }
