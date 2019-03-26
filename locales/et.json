@@ -1,5 +1,6 @@
 {
   "key1": "Testvõti 1",
+  "key-feature-1-1": "Test key 1 in feature-1-translate branch",
   "object": {
     "oKey1": "Test objekti võti 1",
     "subObject1": {
