@@ -1,3 +1,4 @@
 "key1","This is the source for key 1, please translate","This is the source for key 1, please translate","Testing different formats","100",""
 "key2","Second key","Second key","TEST context","",""
 "key3.level1.level2","Source for testing key identifier hierarchy.","Source for testing key identifier hierarchy.","Test","1000",""
+"key.added.from.Crowdin.ui","key.added.from.Crowdin.ui see if we get PR and what form does it have?","key.added.from.Crowdin.ui see if we get PR and what form does it have?","This was added from Crowdin UI",""
